@@ -1,2 +1,1 @@
-# AVALIA-OFINALDNC
-Avaliação final para concluir o curso desenvolvimento web 
+Avaliação final para concluir o curso desenvolvimento web
